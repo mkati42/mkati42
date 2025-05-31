@@ -5,8 +5,7 @@
 
 - 🎓 I'm studying at **Ecole 42 Istanbul**
 - 🧠 I love working with **low-level system concepts**, networking, and concurrency
-- 🔧 Most comfortable with: **C, C++, Python, Django, Docker**
-- 🎮 Currently working on: **ft_transcendence** & **ft_irc**
+- 🔧 Most comfortable with: **C, C++, Python, Django, Docker, JavaScript**
 - 🧩 I enjoy solving problems with **algorithms, sockets, and clean design**
 
 ---
